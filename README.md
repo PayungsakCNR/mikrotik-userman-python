@@ -14,10 +14,10 @@ Next-Hop Co., Ltd.<br/>
 
 ### How to use ###
 1. Prepare your personal data into .csv format 
-Example : 
-room,firstname,lastname,tel
-101,test01,nexthop,099334455
-102,test02,nexthop,099334456
+Example : <br/><br/>
+room,firstname,lastname,tel<br/>
+101,test01,nexthop,099334455<br/>
+102,test02,nexthop,099334456<br/>
 
 2. Set up SSH Parameter (Domain name or IP Address / Port / Username , Private Key)
 
